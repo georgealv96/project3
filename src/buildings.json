@@ -1,0 +1,56 @@
+[
+  {
+    "name": "RSA Battle House Tower",
+    "state": "Alabama",
+    "state_abbreviation": "AL",
+    "city": "Mobile",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/6/61/RSA_Battle_House_Tower%2C_2021.jpg",
+    "height": {
+      "feet": 745,
+      "meters": 227
+    },
+    "floors": 35,
+    "year": 2007,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.rsa-al.gov/real-estate/office-building-portfolio/battle-house-tower/",
+    "ranking": 17,
+    "elevators": 30,
+    "architects": ["TVS Associates"],
+    "address": {
+      "location": "11 North Water Street",
+      "zip_code": 36602
+    },
+    "floor_area": {
+      "square_feet": 534268,
+      "square_meters": 49635
+    }
+  },
+  {
+    "name": "Conoco-Phillips Building",
+    "state": "Alaska",
+    "state_abbreviation": "AK",
+    "city": "Anchorage",
+    "picture": "https://images.skyscrapercenter.com/building/conoco-phillipsbuilding_ext-overall_(c)stevenhenry.jpg",
+    "height": {
+      "feet": 296,
+      "meters": 90
+    },
+    "floors": 22,
+    "year": 1983,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.alaska.org/detail/conocophillips-building",
+    "ranking": 42,
+    "elevators": 13,
+    "architects": ["Luckman Partnership", "Harold Wirum & Associates"],
+    "address": {
+      "location": "700 G Street",
+      "zip_code": 99501
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  }
+]
