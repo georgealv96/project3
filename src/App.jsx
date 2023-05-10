@@ -1,7 +1,12 @@
 import './App.css'
+import buildingArray from './buildings.json'
 
 const App = () => {
-  return <div>My Project</div>
+  return (
+    <div>
+      <img src={buildingArray[14].picture} alt="picture" />
+    </div>
+  )
 }
 
 export default App

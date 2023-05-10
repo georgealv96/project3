@@ -19,7 +19,7 @@
     "architects": ["TVS Associates"],
     "address": {
       "location": "11 North Water Street",
-      "zip_code": 36602
+      "zip_code": "36602"
     },
     "floor_area": {
       "square_feet": 534268,
@@ -46,7 +46,1332 @@
     "architects": ["Luckman Partnership", "Harold Wirum & Associates"],
     "address": {
       "location": "700 G Street",
-      "zip_code": 99501
+      "zip_code": "99501"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Chase Tower",
+    "state": "Arizona",
+    "state_abbreviation": "AZ",
+    "city": "Phoenix",
+    "picture": "https://images.skyscrapercenter.com/building/chase.jpg",
+    "height": {
+      "feet": 483,
+      "meters": 147
+    },
+    "floors": 40,
+    "year": 1972,
+    "primary_purpose": "Office",
+    "previous_names": ["Bank One Center", "Valley Bank Center"],
+    "website": "https://www.skyscrapercenter.com/building/chase-tower/8894",
+    "ranking": 32,
+    "elevators": null,
+    "architects": ["Welton Becket and Associates", "Fred M. Guirey"],
+    "address": {
+      "location": "201 North Central Avenue",
+      "zip_code": "85004"
+    },
+    "floor_area": {
+      "square_feet": 668159,
+      "square_meters": 62074
+    }
+  },
+  {
+    "name": "Simmons Tower",
+    "state": "Arkansas",
+    "state_abbreviation": "AR",
+    "city": "Little Rock",
+    "picture": "https://i.redd.it/opk7nx7jeot71.jpg",
+    "height": {
+      "feet": 546,
+      "meters": 166
+    },
+    "floors": 40,
+    "year": 1986,
+    "primary_purpose": "Office",
+    "previous_names": ["Capitol Tower", "TCBY Tower", "Metropolitan Tower"],
+    "website": "https://www.skyscrapercenter.com/building/simmons-tower/2972",
+    "ranking": 28,
+    "elevators": 17,
+    "architects": ["Harwood K. Smith & Partners"],
+    "address": {
+      "location": "425 West Capitol Avenue",
+      "zip_code": "72201"
+    },
+    "floor_area": {
+      "square_feet": 624996,
+      "square_meters": 58064
+    }
+  },
+  {
+    "name": "Wilshire Grand Center",
+    "state": "California",
+    "state_abbreviation": "CA",
+    "city": "Los Angeles",
+    "picture": "https://file.mk.co.kr/meet/neds/2017/06/image_readtop_2017_426688_14984614752933157.jpg",
+    "height": {
+      "feet": 1100,
+      "meters": 335
+    },
+    "floors": 73,
+    "year": 2017,
+    "primary_purpose": "Hotel/Office",
+    "previous_names": null,
+    "website": "https://wilshiregrandcenter.com/",
+    "ranking": 4,
+    "elevators": 16,
+    "architects": ["AC Martin Partners"],
+    "address": {
+      "location": "900 Wilshire Boulevard",
+      "zip_code": "90017"
+    },
+    "floor_area": {
+      "square_feet": 1500005,
+      "square_meters": 139355
+    }
+  },
+  {
+    "name": "Republic Plaza",
+    "state": "Colorado",
+    "state_abbreviation": "CO",
+    "city": "Denver",
+    "picture": "https://i1.wp.com/www.denverpost.com/wp-content/uploads/2017/02/republic_plaza2.jpg?w=620&crop=0%2C0px%2C100%2C9999px",
+    "height": {
+      "feet": 714,
+      "meters": 218
+    },
+    "floors": 56,
+    "year": 1984,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/republic-plaza/1307",
+    "ranking": 18,
+    "elevators": 23,
+    "architects": ["Skidmore, Owings & Merrill"],
+    "address": {
+      "location": "370 17th Street",
+      "zip_code": "80202"
+    },
+    "floor_area": {
+      "square_feet": 1235100,
+      "square_meters": 114745
+    }
+  },
+  {
+    "name": "City Place I",
+    "state": "Connecticut",
+    "state_abbreviation": "CT",
+    "city": "Hartford",
+    "picture": "https://images.skyscrapercenter.com/building/cityplacei1a.jpg",
+    "height": {
+      "feet": 535,
+      "meters": 163
+    },
+    "floors": 38,
+    "year": 1980,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.wje.com/projects/detail/cityplace-i",
+    "ranking": 29,
+    "elevators": null,
+    "architects": ["Skidmore, Owings & Merrill"],
+    "address": {
+      "location": "185 Asylum Street",
+      "zip_code": "06103"
+    },
+    "floor_area": {
+      "square_feet": 820000,
+      "square_meters": 76180
+    }
+  },
+  {
+    "name": "1201 North Market Sreet",
+    "state": "Delaware",
+    "state_abbreviation": "DE",
+    "city": "Wilmington",
+    "picture": "https://images.skyscrapercenter.com/building/1201market6a.jpg",
+    "height": {
+      "feet": 360,
+      "meters": 110
+    },
+    "floors": 23,
+    "year": 1988,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "http://mcconnellco.com/1201-north-market-street/",
+    "ranking": 40,
+    "elevators": null,
+    "architects": ["Skidmore, Owings & Merrill"],
+    "address": {
+      "location": "1201 North Market Sreet",
+      "zip_code": "19801"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Panorama Tower",
+    "state": "Florida",
+    "state_abbreviation": "FL",
+    "city": "Miami",
+    "picture": "https://images.skyscrapercenter.com/building/panorama-tower_2.jpg",
+    "height": {
+      "feet": 868,
+      "meters": 265
+    },
+    "floors": 85,
+    "year": 2018,
+    "primary_purpose": "Mixed-use",
+    "previous_names": null,
+    "website": "https://www.panoramatower.com/d/index.php",
+    "ranking": 11,
+    "elevators": null,
+    "architects": ["Moshe Cosicher AIA", "FONS Inc."],
+    "address": {
+      "location": "1100 Brickell Bay Drive",
+      "zip_code": "33131"
+    },
+    "floor_area": {
+      "square_feet": 2600000,
+      "square_meters": 241548
+    }
+  },
+  {
+    "name": "Bank of America Plaza",
+    "state": "Georgia",
+    "state_abbreviation": "GA",
+    "city": "Atlanta",
+    "picture": "https://live.staticflickr.com/1643/23844379570_055c9bda36_b.jpg",
+    "height": {
+      "feet": 1023,
+      "meters": 311
+    },
+    "floors": 55,
+    "year": 1992,
+    "primary_purpose": "Office",
+    "previous_names": ["NationsBank Building"],
+    "website": "https://www.atlantadowntown.com/go/bank-of-america-plaza",
+    "ranking": 5,
+    "elevators": 24,
+    "architects": ["Kevin Roche", "John Dinkeloo & Associates"],
+    "address": {
+      "location": "600 Peachtree Street NE",
+      "zip_code": "30308"
+    },
+    "floor_area": {
+      "square_feet": 1312980,
+      "square_meters": 121980
+    }
+  },
+  {
+    "name": "The Central Ala Moana",
+    "state": "Hawaii",
+    "state_abbreviation": "HI",
+    "city": "Honolulu",
+    "picture": "https://u.realgeeks.media/homesearchoahu/the_central_ala_moana/The_Central.jpg",
+    "height": {
+      "feet": 482,
+      "meters": 147
+    },
+    "floors": 43,
+    "year": 2021,
+    "primary_purpose": "Residential",
+    "previous_names": null,
+    "website": "https://www.condokakaako.com/new-condos-in-kakaako/central-ala-moana/",
+    "ranking": 33,
+    "elevators": null,
+    "architects": ["Samkoo Pacific and Design Partners, Inc."],
+    "address": {
+      "location": "1391 Kapiolani Boulevard",
+      "zip_code": "96814"
+    },
+    "floor_area": {
+      "square_feet": 1312980,
+      "square_meters": 121980
+    }
+  },
+  {
+    "name": "Eighth & Main",
+    "state": "Idaho",
+    "state_abbreviation": "ID",
+    "city": "Boise",
+    "picture": "https://idahobusinessreview.com/files/2013/04/8th-and-Main-Exterior-Rendering.jpg",
+    "height": {
+      "feet": 323,
+      "meters": 98
+    },
+    "floors": 18,
+    "year": 2013,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/8th-and-main-tower/15898",
+    "ranking": 41,
+    "elevators": 7,
+    "architects": ["CTA Architects Engineers"],
+    "address": {
+      "location": "800 West Main Street",
+      "zip_code": "83702"
+    },
+    "floor_area": {
+      "square_feet": 350000,
+      "square_meters": 33000
+    }
+  },
+  {
+    "name": "Willis Tower",
+    "state": "Illinois",
+    "state_abbreviation": "IL",
+    "city": "Chicago",
+    "picture": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:16300:16301/full/pct:25/0/default.jpg",
+    "height": {
+      "feet": 1451,
+      "meters": 442
+    },
+    "floors": 108,
+    "year": 1974,
+    "primary_purpose": "Office",
+    "previous_names": ["Sears Tower"],
+    "website": "https://www.willistower.com/",
+    "ranking": 2,
+    "elevators": 104,
+    "architects": [
+      "Skidmore, Owings & Merrill",
+      "Fazlur Rahman Khan",
+      "Bruce Graham"
+    ],
+    "address": {
+      "location": "233 South Wacker Drive",
+      "zip_code": "60606"
+    },
+    "floor_area": {
+      "square_feet": 4477800,
+      "square_meters": 416000
+    }
+  },
+  {
+    "name": "Salesforce Tower",
+    "state": "Indiana",
+    "state_abbreviation": "IN",
+    "city": "Indianapolis",
+    "picture": "https://www.ibj.com/ext/resources/IBJ-Daily/00-2017/02-February/Salesforce-daytime-sign.png",
+    "height": {
+      "feet": 701,
+      "meters": 214
+    },
+    "floors": 48,
+    "year": 1990,
+    "primary_purpose": "Office",
+    "previous_names": [
+      "Bank One Tower",
+      "Chase Tower",
+      "American Fletcher Bank Tower"
+    ],
+    "website": "https://www.salesforcetowerindy.com/",
+    "ranking": 13,
+    "elevators": 31,
+    "architects": ["KlingStubbins"],
+    "address": {
+      "location": "111 Monument Circle",
+      "zip_code": "46204"
+    },
+    "floor_area": {
+      "square_feet": 905158,
+      "square_meters": 84092
+    }
+  },
+  {
+    "name": "801 Grand",
+    "state": "Iowa",
+    "state_abbreviation": "IA",
+    "city": "Des Moines",
+    "picture": "https://preview.redd.it/c1tnvguazz611.jpg?auto=webp&v=enabled&s=98250f64bc0c7b8373e5d6ee6c6eb6064ae65e44",
+    "height": {
+      "feet": 630,
+      "meters": 192
+    },
+    "floors": 44,
+    "year": 1991,
+    "primary_purpose": "Office",
+    "previous_names": ["The Principal Building"],
+    "website": "https://801grand.com/",
+    "ranking": 22,
+    "elevators": null,
+    "architects": ["HOK"],
+    "address": {
+      "location": "801 Grand Avenue",
+      "zip_code": "50309"
+    },
+    "floor_area": {
+      "square_feet": 922467,
+      "square_meters": 85700
+    }
+  },
+  {
+    "name": "Epic Center",
+    "state": "Kansas",
+    "state_abbreviation": "KS",
+    "city": "Wichita",
+    "picture": "https://live.staticflickr.com/3105/3154353426_f3847358d2_b.jpg",
+    "height": {
+      "feet": 385,
+      "meters": 117
+    },
+    "floors": 22,
+    "year": 1987,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/epic-center/9743",
+    "ranking": 36,
+    "elevators": null,
+    "architects": ["Platt, Adams, Braht, Bradley & Associates"],
+    "address": {
+      "location": "301 North Main Street",
+      "zip_code": "67202"
+    },
+    "floor_area": {
+      "square_feet": 399998,
+      "square_meters": 37200
+    }
+  },
+  {
+    "name": "400 West Market",
+    "state": "Kentucky",
+    "state_abbreviation": "KY",
+    "city": "Louisville",
+    "picture": "https://res.cloudinary.com/marketsphere/image/upload/eydcdkbymhhfe5qolpvz.jpg",
+    "height": {
+      "feet": 549,
+      "meters": 167
+    },
+    "floors": 35,
+    "year": 1993,
+    "primary_purpose": "Office",
+    "previous_names": [
+      "Capital Holding Center",
+      "Providian Center",
+      "AEGON Center"
+    ],
+    "website": "https://www.400wmarket.com/",
+    "ranking": 26,
+    "elevators": null,
+    "architects": ["John Burgee", "Philip Johnson"],
+    "address": {
+      "location": "400 West Market Street",
+      "zip_code": "40202"
+    },
+    "floor_area": {
+      "square_feet": 633650,
+      "square_meters": 58868
+    }
+  },
+  {
+    "name": "Hancock Whitney Center",
+    "state": "Louisiana",
+    "state_abbreviation": "LA",
+    "city": "New Orleans",
+    "picture": "https://hancockwhitneycenter.com/wp-content/uploads/2017/03/home7_400x800_acf_cropped.jpg",
+    "height": {
+      "feet": 697,
+      "meters": 212
+    },
+    "floors": 51,
+    "year": 1972,
+    "primary_purpose": "Office",
+    "previous_names": ["One Shell Square"],
+    "website": "https://hancockwhitneycenter.com/",
+    "ranking": 19,
+    "elevators": null,
+    "architects": ["Skidmore, Owings & Merrill"],
+    "address": {
+      "location": "701 Poydras Street",
+      "zip_code": "70139"
+    },
+    "floor_area": {
+      "square_feet": 1256988,
+      "square_meters": 116778
+    }
+  },
+  {
+    "name": "Saint Joseph's Church",
+    "state": "Maine",
+    "state_abbreviation": "ME",
+    "city": "Biddeford",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/0/0e/St_Joseph%27s_Biddeford.jpg",
+    "height": {
+      "feet": 235,
+      "meters": 72
+    },
+    "floors": 3,
+    "year": 1870,
+    "primary_purpose": "Church",
+    "previous_names": null,
+    "website": "https://en.wikipedia.org/wiki/Saint_Joseph%27s_Church_(Biddeford,_Maine)",
+    "ranking": 47,
+    "elevators": 0,
+    "architects": null,
+    "address": {
+      "location": "178 Elm Street",
+      "zip_code": "04005"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Transamerica Tower",
+    "state": "Maryland",
+    "state_abbreviation": "MD",
+    "city": "Baltimore",
+    "picture": "https://images.skyscrapercenter.com/building/john-w-cahill_5107.jpg",
+    "height": {
+      "feet": 529,
+      "meters": 161
+    },
+    "floors": 40,
+    "year": 1972,
+    "primary_purpose": "Mixed-use",
+    "previous_names": ["USF&G Building", "Legg-Mason Building"],
+    "website": "https://100light.com/",
+    "ranking": 30,
+    "elevators": null,
+    "architects": ["Vlastimil Koubek & Associates"],
+    "address": {
+      "location": "100 Light Street",
+      "zip_code": "21202"
+    },
+    "floor_area": {
+      "square_feet": 529993,
+      "square_meters": 49238
+    }
+  },
+  {
+    "name": "200 Clarendon Street",
+    "state": "Massachusetts",
+    "state_abbreviation": "MA",
+    "city": "Boston",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/5/56/John_Hancock_Tower.jpg",
+    "height": {
+      "feet": 790,
+      "meters": 241
+    },
+    "floors": 60,
+    "year": 1976,
+    "primary_purpose": "Office",
+    "previous_names": ["John Hancock Tower"],
+    "website": "https://www.200clarendon.com/",
+    "ranking": 15,
+    "elevators": null,
+    "architects": ["Henry N. Cobb"],
+    "address": {
+      "location": "200 Clarendon Street",
+      "zip_code": "02116"
+    },
+    "floor_area": {
+      "square_feet": 2059997,
+      "square_meters": 191380
+    }
+  },
+  {
+    "name": "Detroit Marriott at the Renaissance Center",
+    "state": "Michigan",
+    "state_abbreviation": "MI",
+    "city": "Detroit",
+    "picture": "https://images.skyscrapercenter.com/building/detroit-marriott-at-the-renaissance-center_nathaniel-lindsey11.jpg",
+    "height": {
+      "feet": 727,
+      "meters": 222
+    },
+    "floors": 73,
+    "year": 1977,
+    "primary_purpose": "Hotel",
+    "previous_names": ["Detroit Plaza Hotel", "The Westin Hotel"],
+    "website": "https://gmrencen.com/",
+    "ranking": 16,
+    "elevators": null,
+    "architects": ["John Portman & Associates"],
+    "address": {
+      "location": "Renaissance Center, 400 Renaissance Drive",
+      "zip_code": "48243"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "IDS Center",
+    "state": "Minnesota",
+    "state_abbreviation": "MN",
+    "city": "Minneapolis",
+    "picture": "https://bringmethenews.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwODcyNDc2NTEzNzQwNDcw/43353739894_4654ce6be5_k.jpg",
+    "height": {
+      "feet": 792,
+      "meters": 241
+    },
+    "floors": 57,
+    "year": 1973,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://ids-center.com/",
+    "ranking": 14,
+    "elevators": null,
+    "architects": ["John Burgee", "Philip Johnson"],
+    "address": {
+      "location": "80 South 8th Street",
+      "zip_code": "55402"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Beau Rivage Casino Hotel",
+    "state": "Mississippi",
+    "state_abbreviation": "MS",
+    "city": "Biloxi",
+    "picture": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/gulfcoast/Beau-Rivage-night-shot-454168b45056a36_45416a1f-5056-a36a-063861795274332f.jpg",
+    "height": {
+      "feet": 347,
+      "meters": 106
+    },
+    "floors": 32,
+    "year": 1999,
+    "primary_purpose": "Hotel & Casino",
+    "previous_names": null,
+    "website": "https://beaurivage.mgmresorts.com/en.html",
+    "ranking": 39,
+    "elevators": null,
+    "architects": ["JCJ Architects"],
+    "address": {
+      "location": "875 Beach Boulevard",
+      "zip_code": "39530"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "One Kansas City Place",
+    "state": "Missouri",
+    "state_abbreviation": "MO",
+    "city": "Kansas City",
+    "picture": "https://media.bizj.us/view/img/1431791/onekansascityplace.jpg",
+    "height": {
+      "feet": 624,
+      "meters": 190
+    },
+    "floors": 42,
+    "year": 1988,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.bnim.com/project/one-kansas-city-place",
+    "ranking": 23,
+    "elevators": 22,
+    "architects": ["Patty Berkebile Nelson & Immenschuh"],
+    "address": {
+      "location": "1200 Main Street",
+      "zip_code": "64105"
+    },
+    "floor_area": {
+      "square_feet": 866660,
+      "square_meters": 80515
+    }
+  },
+  {
+    "name": "First Interstate Center",
+    "state": "Montana",
+    "state_abbreviation": "MT",
+    "city": "Billings",
+    "picture": "https://marvel-b1-cdn.bc0a.com/f00000000171895/www.billingsclinic.com/app/files/public/1279/FIB-Tower_resize.jpg",
+    "height": {
+      "feet": 272,
+      "meters": 83
+    },
+    "floors": 20,
+    "year": 1985,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/first-interstate-center/9738",
+    "ranking": 45,
+    "elevators": 6,
+    "architects": ["Joel Long"],
+    "address": {
+      "location": "401 North 31st Street",
+      "zip_code": "59101"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "First National Bank Tower",
+    "state": "Nebraska",
+    "state_abbreviation": "NE",
+    "city": "Omaha",
+    "picture": "https://static.wikia.nocookie.net/skyscrapershighrise-buildings/images/8/80/First_National_Bank_Tower.jpeg/revision/latest?cb=20201103034952",
+    "height": {
+      "feet": 634,
+      "meters": 193
+    },
+    "floors": 45,
+    "year": 2002,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://enclos.com/project/first-national-bank-tower/",
+    "ranking": 21,
+    "elevators": null,
+    "architects": ["Leo A. Daly"],
+    "address": {
+      "location": "1601 Dodge Street",
+      "zip_code": "68102"
+    },
+    "floor_area": {
+      "square_feet": 729998,
+      "square_meters": 67819
+    }
+  },
+  {
+    "name": "Resorts World Las Vegas",
+    "state": "Nevada",
+    "state_abbreviation": "NV",
+    "city": "Winchester",
+    "picture": "https://pnimg.net/w/articles/4/60b/8ba1e004f7.jpg",
+    "height": {
+      "feet": 679,
+      "meters": 206
+    },
+    "floors": 57,
+    "year": 2021,
+    "primary_purpose": "Hotel & Casino",
+    "previous_names": null,
+    "website": "https://www.rwlasvegas.com/",
+    "ranking": 20,
+    "elevators": null,
+    "architects": ["Paul Steelman"],
+    "address": {
+      "location": "3000 South Las Vegas Boulevard",
+      "zip_code": "89109"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "City Hall Plaza",
+    "state": "New Hampshire",
+    "state_abbreviation": "NH",
+    "city": "Manchester",
+    "picture": "https://bradysullivan.com/sites/default/files/properties/195/gallery/900-Elm-Exterior---8x10.jpg",
+    "height": {
+      "feet": 275,
+      "meters": 84
+    },
+    "floors": 20,
+    "year": 1992,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/city-hall-plaza/9749",
+    "ranking": 44,
+    "elevators": null,
+    "architects": ["Levallee Brensinger Architects"],
+    "address": {
+      "location": "900 Elm Street",
+      "zip_code": "03101"
+    },
+    "floor_area": {
+      "square_feet": 209896,
+      "square_meters": 19500
+    }
+  },
+  {
+    "name": "99 Hudson Street",
+    "state": "New Jersey",
+    "state_abbreviation": "NJ",
+    "city": "Jersey City",
+    "picture": "https://images.skyscrapercenter.com/building/99-Hudson-Street-Lester-Ali-1606252664270.jpg",
+    "height": {
+      "feet": 900,
+      "meters": 270
+    },
+    "floors": 79,
+    "year": 2019,
+    "primary_purpose": "Residential",
+    "previous_names": null,
+    "website": "https://99hudsonliving.com/",
+    "ranking": 9,
+    "elevators": null,
+    "architects": ["Perkins Eastman"],
+    "address": {
+      "location": "99 Hudson Street",
+      "zip_code": "07032"
+    },
+    "floor_area": {
+      "square_feet": 1400000,
+      "square_meters": 426720
+    }
+  },
+  {
+    "name": "Albuquerque Plaza",
+    "state": "New Mexico",
+    "state_abbreviation": "NM",
+    "city": "Albuquerque",
+    "picture": "https://www.federaldesigngroup.com/images/projects/commercial_office/Albuquerque-Plaza-Office-Tower,-Albuquerque,-New-Mexico/01.jpg",
+    "height": {
+      "feet": 351,
+      "meters": 107
+    },
+    "floors": 22,
+    "year": 1990,
+    "primary_purpose": "Office",
+    "previous_names": ["U.S. Eagle Plaza", "Bank of Albuquerque Tower"],
+    "website": "https://www.skyscrapercenter.com/building/albuquerque-plaza/9480",
+    "ranking": 37,
+    "elevators": 8,
+    "architects": ["HOK"],
+    "address": {
+      "location": "201 3rd Street NW",
+      "zip_code": "87102"
+    },
+    "floor_area": {
+      "square_feet": 357000,
+      "square_meters": 33200
+    }
+  },
+  {
+    "name": "One World Trade Center",
+    "state": "New York",
+    "state_abbreviation": "NY",
+    "city": "New York City",
+    "picture": "https://dashboard.durst.org/onewtc/wp-content/uploads/sites/10/2021/06/owtc-location-sunset-scaled.jpg",
+    "height": {
+      "feet": 1776,
+      "meters": 416
+    },
+    "floors": 104,
+    "year": 2014,
+    "primary_purpose": "Office",
+    "previous_names": ["Freedom Tower"],
+    "website": "https://www.wtc.com/about/buildings/1-world-trade-center",
+    "ranking": 1,
+    "elevators": 73,
+    "architects": ["David Childs", "Skidmore, Owings & Merrill"],
+    "address": {
+      "location": "285 Fulton Street",
+      "zip_code": "10006"
+    },
+    "floor_area": {
+      "square_feet": 3501274,
+      "square_meters": 325279
+    }
+  },
+  {
+    "name": "Bank of America Corporate Center",
+    "state": "North Carolina",
+    "state_abbreviation": "NC",
+    "city": "Charlotte",
+    "picture": "https://s3.amazonaws.com/images.skyscrapercenter.com/thumbs/45350_500x650.jpg",
+    "height": {
+      "feet": 871,
+      "meters": 265
+    },
+    "floors": 60,
+    "year": 1992,
+    "primary_purpose": "Office",
+    "previous_names": ["NationsBank Corporate Center"],
+    "website": "https://www.skyscrapercenter.com/building/bank-of-america-corporate-center/711",
+    "ranking": 10,
+    "elevators": null,
+    "architects": ["César Pelli", "HKS Architects"],
+    "address": {
+      "location": "100 North Tryon Street",
+      "zip_code": "28202"
+    },
+    "floor_area": {
+      "square_feet": 1212176,
+      "square_meters": 112615
+    }
+  },
+  {
+    "name": "North Dakota State Capitol",
+    "state": "North Dakota",
+    "state_abbreviation": "ND",
+    "city": "Bismarck",
+    "picture": "https://i.pinimg.com/originals/fe/90/dd/fe90dd2491976bea97f858b0850d124c.jpg",
+    "height": {
+      "feet": 242,
+      "meters": 74
+    },
+    "floors": 21,
+    "year": 1934,
+    "primary_purpose": "Government",
+    "previous_names": null,
+    "website": "https://www.omb.nd.gov/capitol-complex",
+    "ranking": 46,
+    "elevators": null,
+    "architects": ["Joseph Bell DeRemer", "William F. Kurke"],
+    "address": {
+      "location": "600 East Boulevard Avenue",
+      "zip_code": "58501"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Key Tower",
+    "state": "Ohio",
+    "state_abbreviation": "OH",
+    "city": "Cleveland",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Key_Tower_%28March_2022%29.jpg/1200px-Key_Tower_%28March_2022%29.jpg",
+    "height": {
+      "feet": 947,
+      "meters": 289
+    },
+    "floors": 57,
+    "year": 1991,
+    "primary_purpose": "Office",
+    "previous_names": ["Society Center"],
+    "website": "https://keytowerohio.com/?location=Key%20Tower,%20100%20St%20Clair%20Ave%20NE%204th%20floor,%20Cleveland,%20OH%2044114,%20USA&category=9&radius=5",
+    "ranking": 7,
+    "elevators": null,
+    "architects": ["César Pelli"],
+    "address": {
+      "location": "127 Public Square",
+      "zip_code": "44114"
+    },
+    "floor_area": {
+      "square_feet": 1249981,
+      "square_meters": 116127
+    }
+  },
+  {
+    "name": "Devon Energy Center",
+    "state": "Oklahoma",
+    "state_abbreviation": "OK",
+    "city": "Oklahoma City",
+    "picture": "https://americandirectco.com/wp-content/uploads/2017/02/Devon_Energy_Center.jpg",
+    "height": {
+      "feet": 850,
+      "meters": 259
+    },
+    "floors": 50,
+    "year": 2012,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.pickardchilton.com/work/devon-energy-center",
+    "ranking": 12,
+    "elevators": 52,
+    "architects": ["Pickard Chilton"],
+    "address": {
+      "location": "333 West Sheridan Avenue",
+      "zip_code": "73102"
+    },
+    "floor_area": {
+      "square_feet": 1800000,
+      "square_meters": 167000
+    }
+  },
+  {
+    "name": "Wells Fargo Center",
+    "state": "Oregon",
+    "state_abbreviation": "OR",
+    "city": "Portland",
+    "picture": "https://media.truva.com/image/upload/t_medium_image/t_invisible_watermark/htok0zxd1ljkcicmhm4r",
+    "height": {
+      "feet": 546,
+      "meters": 166
+    },
+    "floors": 41,
+    "year": 1972,
+    "primary_purpose": "Office",
+    "previous_names": [
+      "NationsBank Corporate Center",
+      "First Interstate Tower"
+    ],
+    "website": "https://www.wellsfargocenterportland.com/p/1",
+    "ranking": 28,
+    "elevators": 19,
+    "architects": ["Charles Luckman"],
+    "address": {
+      "location": "1300 SW 5th Avenue",
+      "zip_code": "97201"
+    },
+    "floor_area": {
+      "square_feet": 567830,
+      "square_meters": 52753
+    }
+  },
+  {
+    "name": "Comcast Technology Center",
+    "state": "Pennsylvania",
+    "state_abbreviation": "PA",
+    "city": "Philadelphia",
+    "picture": "https://images.adsttc.com/media/images/5db0/cfd6/3312/fd6b/e800/000a/medium_jpg/2161_FP707501.jpg?1571868572",
+    "height": {
+      "feet": 1121,
+      "meters": 341
+    },
+    "floors": 60,
+    "year": 2018,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://comcastcentercampus.com/",
+    "ranking": 3,
+    "elevators": null,
+    "architects": ["Foster and Partners", "Kendall/Heaton Associates"],
+    "address": {
+      "location": "1800 Arch Street",
+      "zip_code": "19103"
+    },
+    "floor_area": {
+      "square_feet": 1566000,
+      "square_meters": 145500
+    }
+  },
+  {
+    "name": "Industrial National Bank Building",
+    "state": "Rhode Island",
+    "state_abbreviation": "RI",
+    "city": "Providence",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2021_Industrial_National_Bank_Building%2C_111_Westminster_Street%2C_Providence.jpg",
+    "height": {
+      "feet": 428,
+      "meters": 130
+    },
+    "floors": 26,
+    "year": 1927,
+    "primary_purpose": "Office",
+    "previous_names": [
+      "Industrial Trust Company",
+      "Fleet Bank Tower",
+      "Bank of America Building",
+      "111 Westminster Street"
+    ],
+    "website": "https://www.skyscrapercenter.com/building/111-westminster-street/9608",
+    "ranking": 34,
+    "elevators": null,
+    "architects": ["Walker & Gillette", "George Frederick Hall"],
+    "address": {
+      "location": "111 Westminster Street",
+      "zip_code": "02903"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Capitol Center",
+    "state": "South Carolina",
+    "state_abbreviation": "SC",
+    "city": "Columbia",
+    "picture": "https://media.voicemap.me/uploads/sound_bite/image/89649/original/CapitolCenter.jpg",
+    "height": {
+      "feet": 349,
+      "meters": 106
+    },
+    "floors": 26,
+    "year": 1987,
+    "primary_purpose": "Office",
+    "previous_names": [
+      "AT&T Building",
+      "Affinity Building",
+      "SouthTrust Bank Building",
+      "Truist Building"
+    ],
+    "website": "https://capitol-center.com/",
+    "ranking": 38,
+    "elevators": 11,
+    "architects": ["GMK Associates"],
+    "address": {
+      "location": "1201 Main Street",
+      "zip_code": "29201"
+    },
+    "floor_area": {
+      "square_feet": 460000,
+      "square_meters": 43000
+    }
+  },
+  {
+    "name": "CenturyLink Tower",
+    "state": "South Dakota",
+    "state_abbreviation": "SD",
+    "city": "Sioux Falls",
+    "picture": "https://preview.redd.it/3ke8iudvqm281.jpg?auto=webp&s=5721741d4d23b1638e6be885dd7407a33b2074ab",
+    "height": {
+      "feet": 174,
+      "meters": 53
+    },
+    "floors": 11,
+    "year": 1971,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/centurylink-tower/9742",
+    "ranking": 49,
+    "elevators": 6,
+    "architects": ["Weary & Alford"],
+    "address": {
+      "location": "125 South Dakota Avenue",
+      "zip_code": "57104"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "AT&T Building",
+    "state": "Tennessee",
+    "state_abbreviation": "TN",
+    "city": "Nashville",
+    "picture": "https://images.skyscrapercenter.com/building/attbuilding_ext-side_(cc-by-nc-sa)franksmith.jpg",
+    "height": {
+      "feet": 617,
+      "meters": 188
+    },
+    "floors": 33,
+    "year": 1994,
+    "primary_purpose": "Office",
+    "previous_names": ["South Central Bell Building", "BellSouth Building"],
+    "website": "https://www.skyscrapercenter.com/building/att-building/2047",
+    "ranking": 24,
+    "elevators": null,
+    "architects": ["Earl Swensson Associates"],
+    "address": {
+      "location": "333 Commerce Street",
+      "zip_code": "37219"
+    },
+    "floor_area": {
+      "square_feet": 690297,
+      "square_meters": 64131
+    }
+  },
+  {
+    "name": "JPMorgan Chase Tower",
+    "state": "Texas",
+    "state_abbreviation": "TX",
+    "city": "Houston",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/6/61/JPMorgan_Chase_Tower_%28Houston%29.jpg",
+    "height": {
+      "feet": 1002,
+      "meters": 305
+    },
+    "floors": 75,
+    "year": 1982,
+    "primary_purpose": "Office",
+    "previous_names": ["Texas Commerce Tower"],
+    "website": "https://jpmctowerhouston.com/",
+    "ranking": 6,
+    "elevators": 52,
+    "architects": ["Pei Cobb Freed Partners", "Ziegler Cooper Architects"],
+    "address": {
+      "location": "600 Travis Street",
+      "zip_code": "77002"
+    },
+    "floor_area": {
+      "square_feet": 2243013,
+      "square_meters": 208383
+    }
+  },
+  {
+    "name": "Wells Fargo Center",
+    "state": "Utah",
+    "state_abbreviation": "UT",
+    "city": "Salt Lake City",
+    "picture": "https://i.pinimg.com/originals/cf/75/d0/cf75d002d1f6a086dec4616d52560842.jpg",
+    "height": {
+      "feet": 422,
+      "meters": 129
+    },
+    "floors": 26,
+    "year": 1998,
+    "primary_purpose": "Office",
+    "previous_names": ["American Stores Tower", "Delta Tower"],
+    "website": "https://www.skyscrapercenter.com/building/wells-fargo-center/9550",
+    "ranking": 35,
+    "elevators": 13,
+    "architects": ["HKS Architects"],
+    "address": {
+      "location": "299 South Main Street",
+      "zip_code": "84111"
+    },
+    "floor_area": {
+      "square_feet": 569992,
+      "square_meters": 52954
+    }
+  },
+  {
+    "name": "Decker Towers",
+    "state": "Vermont",
+    "state_abbreviation": "VT",
+    "city": "Burlington",
+    "picture": "https://images.skyscrapercenter.com/building/decker3-4a.jpg",
+    "height": {
+      "feet": 124,
+      "meters": 38
+    },
+    "floors": 11,
+    "year": 1971,
+    "primary_purpose": "Residential",
+    "previous_names": null,
+    "website": "https://burlingtonhousing.org/properties/property.php?id=3",
+    "ranking": 50,
+    "elevators": null,
+    "architects": ["Pizzagalli Construction Company"],
+    "address": {
+      "location": "230 St Paul Street",
+      "zip_code": "05401"
+    },
+    "floor_area": {
+      "square_feet": 120080,
+      "square_meters": 11200
+    }
+  },
+  {
+    "name": "The Westin Virginia Beach Town Center",
+    "state": "Virginia",
+    "state_abbreviation": "VA",
+    "city": "Virginia Beach",
+    "picture": "https://www.centuryconcreteinc.com/image/project/8/5/58/9f9955ed572a19a3863fae85d928.jpg",
+    "height": {
+      "feet": 508,
+      "meters": 155
+    },
+    "floors": 38,
+    "year": 2007,
+    "primary_purpose": "Residential/Hotel",
+    "previous_names": null,
+    "website": "https://www.marriott.com/en-us/hotels/orfwi-the-westin-virginia-beach-town-center/overview/",
+    "ranking": 31,
+    "elevators": 5,
+    "architects": ["BBGM"],
+    "address": {
+      "location": "4535 Commerce Street",
+      "zip_code": "23462"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "Columbia Center",
+    "state": "Washington",
+    "state_abbreviation": "WA",
+    "city": "Seattle",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Columbia_center_from_smith_tower.jpg",
+    "height": {
+      "feet": 933,
+      "meters": 284
+    },
+    "floors": 76,
+    "year": 1985,
+    "primary_purpose": "Office",
+    "previous_names": ["Bank of America Tower", "Columbia Seafirst Center"],
+    "website": "https://columbiacenterseattle.com/",
+    "ranking": 8,
+    "elevators": 48,
+    "architects": ["Chester Lindsey Architects"],
+    "address": {
+      "location": "701 Fifth Avenue",
+      "zip_code": "98104"
+    },
+    "floor_area": {
+      "square_feet": 1538000,
+      "square_meters": 142900
+    }
+  },
+  {
+    "name": "West Virginia State Capitol",
+    "state": "West Virginia",
+    "state_abbreviation": "WV",
+    "city": "Charleston",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_West_Virginia_Capitol_in_Charleston_LCCN2015631770.tif/lossy-page1-1200px-The_West_Virginia_Capitol_in_Charleston_LCCN2015631770.tif.jpg",
+    "height": {
+      "feet": 293,
+      "meters": 89
+    },
+    "floors": 4,
+    "year": 1932,
+    "primary_purpose": "Government",
+    "previous_names": null,
+    "website": "https://charlestonwv.com/listing/west-virginia-state-capitol/",
+    "ranking": 43,
+    "elevators": 0,
+    "architects": ["Cass Gilbert"],
+    "address": {
+      "location": "1900 Kanawha Boulevard",
+      "zip_code": "25311"
+    },
+    "floor_area": {
+      "square_feet": null,
+      "square_meters": null
+    }
+  },
+  {
+    "name": "U.S. Bank Center",
+    "state": "Wisconsin",
+    "state_abbreviation": "WI",
+    "city": "Milwaukee",
+    "picture": "https://emke.uwm.edu/wp-content/uploads/2018/01/USBankCenter_01.jpg",
+    "height": {
+      "feet": 601,
+      "meters": 183
+    },
+    "floors": 42,
+    "year": 1973,
+    "primary_purpose": "Office",
+    "previous_names": ["First Wisconsin Center", "Firstar Center"],
+    "website": "https://urbanmilwaukee.com/building/u-s-bank-center/",
+    "ranking": 25,
+    "elevators": 20,
+    "architects": [
+      "Bruce Graham",
+      "James DeStefano",
+      "Skidmore, Owings & Merrill"
+    ],
+    "address": {
+      "location": "777 East Wisconsin Avenue",
+      "zip_code": "53202"
+    },
+    "floor_area": {
+      "square_feet": 1077607,
+      "square_meters": 100113
+    }
+  },
+  {
+    "name": "Wyoming Financial Center",
+    "state": "Wyoming",
+    "state_abbreviation": "WY",
+    "city": "Cheyenne",
+    "picture": "https://bestlifeonline.com/wp-content/uploads/sites/3/2019/08/Wyoming-Building.jpg",
+    "height": {
+      "feet": 148,
+      "meters": 45
+    },
+    "floors": 11,
+    "year": 1990,
+    "primary_purpose": "Office",
+    "previous_names": null,
+    "website": "https://www.skyscrapercenter.com/building/us-bank-building/9739",
+    "ranking": 48,
+    "elevators": null,
+    "architects": null,
+    "address": {
+      "location": "2020 Carey Avenue",
+      "zip_code": "82001"
     },
     "floor_area": {
       "square_feet": null,
