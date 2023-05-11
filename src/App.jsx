@@ -1,10 +1,16 @@
 import './App.css'
 import buildingArray from './buildings.json'
+import Building from './components/Building'
 
 const App = () => {
   return (
     <div>
-      <img src={buildingArray[14].picture} alt="picture" />
+      <h1>Tallest Buildings by State</h1>
+      <main>
+        {buildingArray.map((building) => (
+          <Building building={building} />
+        ))}
+      </main>
     </div>
   )
 }
