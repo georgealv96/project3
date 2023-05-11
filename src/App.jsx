@@ -13,7 +13,7 @@ const App = () => {
           <BarItem item={navigationBar} />
         ))}
       </nav>
-      <h1>Tallest Buildings by State</h1>
+      <h1>Tallest Buildings by U.S. State</h1>
       <main>
         {buildingArray.map((building) => (
           <Building building={building} />

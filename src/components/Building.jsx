@@ -1,11 +1,10 @@
 const Building = (props) => {
   return (
     <div className="building">
-      <h2>{props.building.name}</h2>
       <img src={props.building.picture} alt={props.building.name}></img>
-      <h3>
-        {props.building.city} - {props.building.state_abbreviation}
-      </h3>
+      <h2>{props.building.name}</h2>
+      <h3>{props.building.city},</h3>
+      <h4>{props.building.state_abbreviation}</h4>
     </div>
   )
 }
