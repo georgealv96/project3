@@ -514,7 +514,7 @@
     "website": "https://en.wikipedia.org/wiki/Saint_Joseph%27s_Church_(Biddeford,_Maine)",
     "ranking": 47,
     "elevators": 0,
-    "architects": null,
+    "architects": [null],
     "address": {
       "location": "178 Elm Street",
       "zip_code": "04005"
@@ -1368,7 +1368,7 @@
     "website": "https://www.skyscrapercenter.com/building/us-bank-building/9739",
     "ranking": 48,
     "elevators": null,
-    "architects": null,
+    "architects": [null],
     "address": {
       "location": "2020 Carey Avenue",
       "zip_code": "82001"

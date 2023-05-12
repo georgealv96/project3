@@ -44,32 +44,28 @@ main {
   align-items: center;
   background-color: black;
   color: white;
-  min-width: 18vw;
+  width: 18vw;
   border-color: black;
   border: solid 0.5em;
   border-radius: 0 0 5% 5%;
-  font-family: "Monaco", sans-serif;
+  font-family: sans-serif;
 }
 
 .building h2 {
-  padding: 1em 0;
-  font-size: 2em;
-  max-width: 17vw;
-  min-height: 20vh;
+  padding: 0.5em 0.5em;
+  font-size: 1.75em;
+  max-width: 100%;
+  min-height: 15vh;
   text-align: center;
-  overflow-wrap: break-word;
-  /* border-style: solid; */
+  overflow-wrap: break-all;
+  border-style: solid;
 }
+
 .building h3 {
   font-size: 1.25em;
 }
 
-.building h4 {
-  font-size: 1.25em;
-  padding: 0 0 1em 0;
-}
-
 img {
-  width: 18vw;
-  height: 25vw;
+  width: 100%;
+  height: 30vh;
 }
