@@ -58,7 +58,7 @@ main {
   min-height: 15vh;
   text-align: center;
   overflow-wrap: break-all;
-  border-style: solid;
+  /* border-style: solid; */
 }
 
 .building h3 {
