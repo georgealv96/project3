@@ -1,5 +1,5 @@
 const Architect = (props) => {
-  return <div>{props.architect}</div>
+  return <p>{props.architect}</p>
 }
 
 export default Architect
