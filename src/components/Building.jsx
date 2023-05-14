@@ -25,7 +25,7 @@ const Building = (props) => {
       <HeightBar heightBar={props.building} />
       <div>
         {props.building.architects.map((architect) => (
-          <Architect architect={architect} />
+          <Architect architect={architect} color={buildingColor} />
         ))}
       </div>
     </div>
