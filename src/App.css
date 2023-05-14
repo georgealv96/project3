@@ -48,6 +48,7 @@ main {
   border: solid 0.5em;
   border-radius: 0 0 5% 5%;
   font-family: sans-serif;
+  text-align: center;
 }
 
 .building h2 {
@@ -55,7 +56,6 @@ main {
   font-size: 1.75em;
   max-width: 100%;
   min-height: 15vh;
-  text-align: center;
   overflow-wrap: break-all;
   /* border-style: solid; */
 }
@@ -63,7 +63,6 @@ main {
 .location {
   font-size: 1.75em;
   font-family: "Satisfy", serif;
-  text-align: center;
   padding: 0.75em 0.25em 0.75em 0.25em;
 }
 
@@ -73,10 +72,13 @@ img {
 }
 
 .heightBar h4 {
-  text-align: center;
   padding-bottom: 0.5em;
 }
 
 #architect {
+  margin: 1em;
+  padding: 0.4em;
   background-color: white;
+  font-weight: bold;
+  border-radius: 1em;
 }
