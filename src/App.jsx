@@ -5,6 +5,7 @@ import NavBar from './components/NavBar'
 
 const App = () => {
   const navigationBar = ['HOME', 'BY YEAR', 'BY HEIGHT', 'FACTS', 'ABOUT']
+
   return (
     <div>
       <nav>
