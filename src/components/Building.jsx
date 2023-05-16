@@ -1,4 +1,4 @@
-// import { useState } from 'react'
+import { useState } from 'react'
 import HeightBar from './HeightBar'
 import Architect from './Architect'
 import Location from './Location'
@@ -19,15 +19,23 @@ const Building = (props) => {
     buildingColor = 'purple'
   }
 
-  // const [hover, setHover] = useState(false)
+  const [hover, setHover] = useState(false)
 
-  // const handleMouseEnter = () => {}
+  const handleMouseEnter = () => {
+    setHover(true)
+  }
+
+  const handleMouseLeave = () => {
+    setHover(false)
+  }
 
   return (
     <a
       href={props.building.website}
       className="building"
-      style={{ backgroundColor: buildingColor }}
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+      style={{ backgroundColor: hover ? 'black' : buildingColor }}
     >
       <Picture picture={props.building} />
       <Location location={props.building} />
