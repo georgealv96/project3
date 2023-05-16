@@ -1,6 +1,8 @@
+// import { useState } from 'react'
 import HeightBar from './HeightBar'
 import Architect from './Architect'
 import Location from './Location'
+import Picture from './Picture'
 
 const Building = (props) => {
   const heightRanking = props.building.ranking
@@ -17,13 +19,17 @@ const Building = (props) => {
     buildingColor = 'purple'
   }
 
+  // const [hover, setHover] = useState(false)
+
+  // const handleMouseEnter = () => {}
+
   return (
     <a
       href={props.building.website}
       className="building"
       style={{ backgroundColor: buildingColor }}
     >
-      <img src={props.building.picture} alt={props.building.name}></img>
+      <Picture picture={props.building} />
       <Location location={props.building} />
       <h2>{props.building.name}</h2>
       <HeightBar heightBar={props.building} />
