@@ -1,8 +1,14 @@
 const Architect = (props) => {
   return (
-    <p id="architect" style={{ color: props.color }}>
+    <div
+      id="architect"
+      style={{
+        color: props.color,
+        backgroundColor: props.architect && 'white'
+      }}
+    >
       {props.architect}
-    </p>
+    </div>
   )
 }
 

@@ -18,7 +18,11 @@ const Building = (props) => {
   }
 
   return (
-    <div className="building" style={{ backgroundColor: buildingColor }}>
+    <a
+      href={props.building.website}
+      className="building"
+      style={{ backgroundColor: buildingColor }}
+    >
       <img src={props.building.picture} alt={props.building.name}></img>
       <Location location={props.building} />
       <h2>{props.building.name}</h2>
@@ -28,7 +32,7 @@ const Building = (props) => {
           <Architect architect={architect} color={buildingColor} />
         ))}
       </div>
-    </div>
+    </a>
   )
 }
 

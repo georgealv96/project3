@@ -78,7 +78,7 @@ img {
 #architect {
   margin: 1em;
   padding: 0.4em;
-  background-color: white;
   font-weight: bold;
+  /* background-color: white; */
   border-radius: 1em;
 }
