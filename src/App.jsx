@@ -4,7 +4,13 @@ import Building from './components/Building'
 import NavBar from './components/NavBar'
 
 const App = () => {
-  const navigationBar = ['HOME', 'BY YEAR', 'BY HEIGHT', 'FACTS', 'ABOUT']
+  const navigationBar = [
+    { button: 'HOME', color: 'red' },
+    { button: 'BY YEAR', color: 'orange' },
+    { button: 'BY HEIGHT', color: 'green' },
+    { button: 'FACTS', color: 'blue' },
+    { button: 'ABOUT', color: 'purple' }
+  ]
 
   return (
     <div>
