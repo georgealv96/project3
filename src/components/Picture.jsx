@@ -1,5 +1,15 @@
 const Picture = (props) => {
-  return <img src={props.picture.picture} alt={props.picture.name}></img>
+  return (
+    <div id="picture-box">
+      <img
+        src={props.picture.picture}
+        alt={props.picture.name}
+        style={{
+          opacity: props.isHover ? null : '0.75'
+        }}
+      ></img>
+    </div>
+  )
 }
 
 export default Picture

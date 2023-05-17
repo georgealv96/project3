@@ -1,4 +1,5 @@
 import { useState } from 'react'
+
 const NavBar = (props) => {
   const [hover, setHover] = useState(false)
 

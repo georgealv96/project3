@@ -35,10 +35,12 @@ const Building = (props) => {
       className="building"
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
-      style={{ backgroundColor: hover ? 'black' : buildingColor }}
+      style={{
+        backgroundColor: hover ? 'black' : buildingColor
+      }}
       target="_blank"
     >
-      <Picture picture={props.building} />
+      <Picture picture={props.building} isHover={hover} />
       <Location location={props.building} />
       <h2>{props.building.name}</h2>
       <HeightBar heightBar={props.building} />

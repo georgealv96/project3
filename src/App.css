@@ -81,3 +81,9 @@ img {
   font-weight: bold;
   border-radius: 1em;
 }
+
+#picture-box {
+  background-color: rgb(54, 54, 54);
+  width: 100%;
+  height: 30vh;
+}
