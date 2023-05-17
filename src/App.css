@@ -21,12 +21,16 @@ nav div {
   text-align: center;
 }
 
+nav div:hover {
+  transform: scale(1.05);
+}
+
 h1 {
   padding: 0.75em 0 0 0;
   font-family: "Satisfy", serif;
   color: white;
   text-align: center;
-  font-size: 4em;
+  font-size: 4.5em;
 }
 
 main {
@@ -34,7 +38,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2em 3em;
+  gap: 3em 3em;
 }
 
 .building {
@@ -42,12 +46,16 @@ main {
   flex-direction: column;
   align-items: center;
   color: white;
-  width: 18vw;
+  width: 15vw;
   border: solid 0.5em;
   border-radius: 0 0 5% 5%;
   font-family: sans-serif;
   text-align: center;
   text-decoration: none;
+}
+
+.building:hover {
+  transform: scale(1.05);
 }
 
 .building h2 {
