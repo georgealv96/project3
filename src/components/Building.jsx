@@ -36,6 +36,7 @@ const Building = (props) => {
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
       style={{ backgroundColor: hover ? 'black' : buildingColor }}
+      target="_blank"
     >
       <Picture picture={props.building} />
       <Location location={props.building} />
@@ -43,7 +44,11 @@ const Building = (props) => {
       <HeightBar heightBar={props.building} />
       <div>
         {props.building.architects.map((architect) => (
-          <Architect architect={architect} color={buildingColor} />
+          <Architect
+            architect={architect}
+            color={buildingColor}
+            isHover={hover}
+          />
         ))}
       </div>
     </a>

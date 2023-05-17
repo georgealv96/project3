@@ -3,7 +3,7 @@ const Architect = (props) => {
     <div
       id="architect"
       style={{
-        color: props.color,
+        color: props.isHover ? 'black' : props.color,
         backgroundColor: props.architect && 'white'
       }}
     >
